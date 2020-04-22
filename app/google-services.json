@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "121170015561",
+    "firebase_url": "https://dummyproject-f3700.firebaseio.com",
+    "project_id": "dummyproject-f3700",
+    "storage_bucket": "dummyproject-f3700.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121170015561:android:7deb58c2d49ba7cc1e1698",
+        "android_client_info": {
+          "package_name": "com.example.loginsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121170015561-n8q5ot53559edakis7v8hne7rq825p2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-XmB4nrAx9Ri1p_tAie5kAZKcn4Fd5y0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121170015561-n8q5ot53559edakis7v8hne7rq825p2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
